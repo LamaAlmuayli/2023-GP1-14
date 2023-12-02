@@ -10,6 +10,9 @@ This project uses dart as a programming language in a Flutter framework, also it
 
 ## Launching instructions
 1- Download the zipped folder
+
 2- Unzip the folder
+
 3- Open folder in vs 
+
 4- Run on Emulator
