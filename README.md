@@ -6,12 +6,10 @@ TheraSense is a software that helps therapists to sense their patients activitie
 
 ## Technology 
 
+This project uses dart as a programming language in a Flutter framework, also it uses Visual Studio as an IDE.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Launching instructions
+1- Download the zipped folder
+2- Unzip the folder
+3- Open folder in vs 
+4- Run on Emulator
